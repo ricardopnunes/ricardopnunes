@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/ricardopnunes">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ricardopnunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardopnunes&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ricardopnunes&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardopnunes&layout=compact&langs_count=7&theme=shades-of-purple"/>
   <img src="https://komarev.com/ghpvc/?username=ricardopnunes&color=green" alt="ricardopnunes" /> 
 </div>
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
