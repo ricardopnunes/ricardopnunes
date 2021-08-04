@@ -48,7 +48,7 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ricardopnunes&theme=react-dark&hide_border=true&area=true)
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
- ![Snake animation](https://github.com/ricardopnunes)
+ ![Snake animation](https://github.com/ricardopnunes/ricardopnunes/actions/workflows/cobra.yml)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
 
