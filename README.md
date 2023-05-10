@@ -19,11 +19,8 @@
     <img align="center" alt="Ricardo-Azure" height="20" width="30"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg"
   </div>
    <br></br>
-  
-##
-  
-  
-  
+ 
+ ##
  <p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=ricardopnunes&theme=dracula&no-bg=true" />
 
