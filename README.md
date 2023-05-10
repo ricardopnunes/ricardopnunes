@@ -3,7 +3,6 @@
 - 🔭 Hoje eu trabalho com Suporte tecnico 
 - 🌱 Estudando InfoSec
 - 📫 Contate-me no email: ricardopontin145@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/ricardopnunes">
@@ -12,7 +11,6 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardopnunes&layout=compact&langs_count=7&theme=shades-of-purple"/>
   <img src="https://komarev.com/ghpvc/?username=ricardopnunes&color=green" alt="ricardopnunes" /> 
 </div>
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
   
   <div style="display: inline_block"> <br>
     
