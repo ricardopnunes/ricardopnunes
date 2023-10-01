@@ -1,7 +1,6 @@
 ## Oii! Eu sou Ricardo.
 
-- 🔭 Hoje eu trabalho com Suporte tecnico 
-- 🌱 Estudando InfoSec
+- 🔭 Hoje eu trabalho como desenvolvedor Web
 - 📫 Contate-me no email: ricardopontin145@gmail.com
 
 <div>
