@@ -6,6 +6,7 @@
 <div>
   <a href="https://github.com/ricardopnunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardopnunes&layout=compact&langs_count=7&theme=dracula"/>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=ricardopnunes&color=green" alt="ricardopnunes" /> 
 </div>
   
