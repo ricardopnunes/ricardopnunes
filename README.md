@@ -1,8 +1,3 @@
-## Oii! Eu sou Ricardo.
-
-- 🔭 Hoje eu trabalho como desenvolvedor Web
-- 📫 Contate-me no email: ricardopontin145@gmail.com
-
 ## 👻 A little about me... 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ricardopnunes&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
