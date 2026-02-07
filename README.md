@@ -2,14 +2,37 @@
 
 - 🔭 Hoje eu trabalho como desenvolvedor Web
 - 📫 Contate-me no email: ricardopontin145@gmail.com
+
+## 👻 A little about me... 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ricardopnunes&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+
+I am a **Full-Stack & Software Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
+
   
-  <div style="display: inline_block"> <br>
-    <img align="center" alt="Ricardo-Elixir" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/elixir/elixir-original.svg">
-    <img align ="center" alt="Ricardo-PHP" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg">
-    <img align="center" alt="Ricardo-Phoenix" height="20" width="30"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/phoenix/phoenix-original.svg">
-    <img align="center" alt="Ricardo-Cpp" height="20" width="30"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Ricardo-C" height="20" width="30"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
-  </div>
+```javascript
+const DIMFLIX = {
+    OS: ["Arch Linux"],
+    languages: {
+        highLevel: ["Python", "SQL"],
+        averageLevel: ["JavaScript"],
+        baseLevel: ["Rust", "C", "Java", "Typescript", "Bash"]
+    },
+    programming: {
+        backend: ["Django", "FastApi", "Flask", "RabbitMQ", "PyDantic"],
+        frontend: ["HTML", "CSS/SCSS", "VueJS"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
+        machine-learning: ["vaex", "pandas", "opencv", "scikit-learn"],
+        webScraping: ["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
+        bots: ["aiogram", "pyrogram", "vkbottle"],
+        devOps: ["Docker", "Nginx", "Ngrok"],
+        GUI: {
+            Desktop: ["PyQT6", "Pyside6", "Tauri", "JavaFX"],
+            Mobile: ["Ionic + Capacitor", "AndroidJS", "Tauri"]
+        }
+    },
+    UI_UX: ["Photoshop", "Illustrator", "XD", "Figma"],
+};
+```
    <br></br>
  
  ##
