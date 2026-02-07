@@ -5,7 +5,7 @@ I am a **Full-Stack & Software Engineer** with a special bias towards creativity
 
 ##
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ricardopnunes&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ricardopnunes&theme=github-dark-dimmed&custom_title=Ricardo%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
   
