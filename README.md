@@ -18,7 +18,7 @@ const DIMFLIX = {
         baseLevel: ["Rust", "Python", "Bash"]
     },
     programming: {
-        backend: ["Django", "FastApi", "Flask", "RabbitMQ", "PyDantic"],
+        backend: ["Nodejs",  "RabbitMQ" ],
         frontend: ["HTML", "CSS/SCSS", "React"],
         databases: ["PostgreSQL", "MongoDB", "Oracle"],
         devOps: ["Docker", "Nginx", "Ngrok"],
