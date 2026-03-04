@@ -1,7 +1,7 @@
 ## 👻 A little about me... 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ricardopnunes&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
-I am a **Full-Stack & Software Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
+I am a **Full-Stack & Software Engineer** and a Cybersecurity enthusiast with a special bias towards creativity and innovation.My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
 
 ##
 
