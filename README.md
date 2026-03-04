@@ -14,7 +14,7 @@ const DIMFLIX = {
     OS: ["Arch Linux"],
     languages: {
         highLevel: ["JavaScript","Typescript","PLSQL","SQL"],
-        averageLevel: ["C","C++"],
+        averageLevel: ["C","C++", "Go"],
         baseLevel: ["Rust", "Python", "Bash"]
     },
     programming: {
